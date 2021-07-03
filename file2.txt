@@ -1,3 +1,4 @@
 FileName : file2.txt
 My Name is Mangesh
 Welcome to Git training program
+Hi how are  you
